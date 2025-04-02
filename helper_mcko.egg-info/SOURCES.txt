@@ -1,9 +1,0 @@
-README.md
-setup.py
-helper_library/__init__.py
-helper_library/module_1.py
-helper_library/module_2.py
-helper_mcko.egg-info/PKG-INFO
-helper_mcko.egg-info/SOURCES.txt
-helper_mcko.egg-info/dependency_links.txt
-helper_mcko.egg-info/top_level.txt
